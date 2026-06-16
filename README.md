@@ -8,8 +8,8 @@
 ![Tests](https://img.shields.io/badge/tests-15%20passing-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-🔗 **Live demo:** _coming soon_
-📜 **Contract (Sepolia):** _deploy pending_
+🔗 **Live demo:** https://brew-token.netlify.app
+📜 **Contract (Sepolia):** [0x0A474f23899d8F760e8A9A42cA4114156520b87A](https://sepolia.etherscan.io/address/0x0A474f23899d8F760e8A9A42cA4114156520b87A)
 
 ---
 
